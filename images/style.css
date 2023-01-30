@@ -1,0 +1,75 @@
+*{
+ margin:0;
+ padding:0;
+}
+
+body{
+ margin-top: 40px;
+}
+.food{
+height:4em ;
+background-color: rgb(153, 224, 234);
+
+}
+nav{
+margin-left:100px ;
+display: flex;
+padding-top:20px ;
+}
+
+a,.sign{
+ width:80px;
+ text-align: center;
+  margin-left:10em ;
+  text-decoration:none ;
+  cursor: pointer;
+}
+
+.sign{
+ color: white;
+  border-radius: 20px;
+  background-color: darkslategrey;
+  cursor: pointer;
+  
+}
+
+.one{
+ display: flex;
+ width:100%;
+ margin:auto;
+ padding-top:30px ;
+}
+.first{
+ width: 40%;
+ margin: 30px;
+ padding-left:60px;
+
+}
+span{
+ color: rgb(0, 0, 255);
+font-size: larger;
+font-weight:900;
+}
+span,h3,button{
+ line-height:10mm ;
+}
+img{
+width:40%;
+margin-left:10px ;
+}
+
+.more{
+ width:100px;
+ margin-top:30px ;
+ color:white ;
+ border-radius:20px ;
+ background-color:darkslategrey ;
+ cursor: pointer;
+}
+
+p{
+ font-size:15px;
+ line-height:30px;
+ padding-top:5mm ;
+}
+
